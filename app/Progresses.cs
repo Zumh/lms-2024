@@ -90,6 +90,7 @@ class Progresses : ICommand
         Console.Write(GetDisplayProgressSummary());
     }
 
+
     /// <summary>
     /// Method to generate multiple Progress instances in a loop
     /// </summary>
